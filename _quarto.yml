@@ -1,0 +1,20 @@
+project:
+  type: website
+
+website:
+  title: "Lalu Thomas"
+  navbar:
+    right:
+      - text: Blog
+        href: blog.qmd
+      - icon: github
+        href: https://github.com/LaluThomas
+      - icon: youtube
+        href: https://twitter.com
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+
+editor: visual
+
